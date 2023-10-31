@@ -1,0 +1,11 @@
+[package]
+name = "slidebuf"
+version = "0.0.1"
+authors = ["Dominik Werder <dominik.werder@gmail.com>"]
+edition = "2021"
+
+[lib]
+doctest = false
+
+[dependencies]
+bytes = "1.5.0"
